@@ -2,6 +2,9 @@
 
 # Published under the MIT license.
 
+# This Programm can be used if you use KDE and KDEconnect.
+# The purpose of this Programm is to send over numbers to your phone.
+
 # check if run in terminal or krunner
 if [[ -t 0 && -t 1 ]]; then
 	run_in_term=1
